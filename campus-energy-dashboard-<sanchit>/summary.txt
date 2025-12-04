@@ -1,0 +1,6 @@
+
+Campus Energy Summary
+---------------------------
+Total Consumption: 29909 kWh
+Highest Consuming Building: hostel
+Peak Load Time: 2024-01-02 00:00:00
